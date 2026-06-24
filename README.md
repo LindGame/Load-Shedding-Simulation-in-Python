@@ -22,3 +22,8 @@ An object-oriented Python simulation designed to model smart grid power distribu
 
 * **Time-of-Day Pricing/Demand Curves:** Integrating peaking patterns (e.g., residential spikes during evening hours).
 * **Renewables Integration:** Breaking total capacity into discrete Base-Load, Solar, and Wind generation inputs influenced by weather metrics.
+
+  ## Running
+  ```bash
+  python Load_Shedding_Simulator.py
+  ```
